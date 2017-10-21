@@ -1,0 +1,34 @@
+.login{
+            width: 50%;
+            margin: auto;
+            border: 1px solid black;
+            padding: 5px;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+.login > h1{
+	background: #007bff;
+	text-align: center;
+}
+li.page-item a{
+	position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    
+}
+li.page-item a:hover{
+    text-decoration: none;
+    }
+
+.pager {
+    width: 50%;
+    margin: auto;
+}
+.table-hover{
+    height: 50%;
+}
